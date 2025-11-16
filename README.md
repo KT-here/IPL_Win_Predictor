@@ -46,4 +46,4 @@ IPL_Win_Predictor/
 
 
 # 🌐 Live App (If Deployed)
-[Click to open the app]((https://iplwinpredictor-7uxy9xubupbktrbyima9ws.streamlit.app/)/)
+[Click to open the app]([https://iplwinpredictor-7uxy9xubupbktrbyima9ws.streamlit.app/])
