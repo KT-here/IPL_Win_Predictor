@@ -44,5 +44,6 @@ IPL_Win_Predictor/
 ├── README.md # You're reading this!
 └── .gitignore # Ignored files
 
+
 # 🌐 Live App (If Deployed)
-[Click to open the app](https://iplwinpredictor-tz4wwlwn43chfpuh8qsk7d.streamlit.app/)
+[Click to open the app]((https://iplwinpredictor-7uxy9xubupbktrbyima9ws.streamlit.app/)/)
